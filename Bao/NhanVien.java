@@ -7,6 +7,6 @@ public class c2b1 {
 		String address = sc.next();
 		System.out.println("Name: " + name);
 			System.out.println("Address " + address);
-
+		
 	}
 }
